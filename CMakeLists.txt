@@ -16,6 +16,7 @@ endif()
 
 find_package (32BLIT CONFIG REQUIRED PATHS ../32blit-sdk $ENV{PATH_32BLIT_SDK})
 
+add_subdirectory(3d-demo)
 add_subdirectory(audio-test)
 add_subdirectory(audio-wave)
 add_subdirectory(doom-fire)
