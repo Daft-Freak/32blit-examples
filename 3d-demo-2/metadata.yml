@@ -1,0 +1,10 @@
+title: 3D Test (THR3E)
+description: A test of 32Blit's 3D functions
+author: pimoroni
+splash:
+  file: ../no-image.png
+icon:
+  file: ../no-icon.png
+version: v1.0.0
+url: https://github.com/32blit/32blit-sdk
+category: demo
